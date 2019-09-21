@@ -20,10 +20,8 @@ target 'FirestoreExample' do
   pod 'paper-onboarding'
   pod 'MarqueeLabel/Swift'
   pod 'lottie-ios'
-  # - pod 'lottie-ios', '~> 2.5.2'
   pod 'Firebase/InAppMessagingDisplay'
   pod 'Fabric'
   pod 'Crashlytics'
-  # - pod 'SwipeCellKit', :git => 'https://github.com/CentrumGuy/SwipeCellKit'
   pod 'SwiftSoup'
 end
