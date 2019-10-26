@@ -520,8 +520,8 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="cwJ-pP-LCv" customClass="UIViewDesignable" customModule="FirestoreExample" customModuleProvider="target">
-                                <rect key="frame" x="67.5" y="269.5" width="240" height="128"/>
-                                <color key="backgroundColor" systemColor="systemPinkColor" red="1" green="0.17647058823529413" blue="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <rect key="frame" x="39.5" y="269.5" width="240" height="128"/>
+                                <color key="backgroundColor" systemColor="systemPinkColor" red="1" green="0.1764705882" blue="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="128" id="SUh-uv-qyB"/>
                                     <constraint firstAttribute="width" constant="240" id="vCQ-wQ-0xS"/>
